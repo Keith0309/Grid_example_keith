@@ -1,3 +1,6 @@
+.ff{
+    font-size: 13px;
+}
 /*.flag-new::before {
     content: "New!";
     background-color: #087f23;
