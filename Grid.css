@@ -1,5 +1,9 @@
 .ff{
-    font-size: 13px;
+    font-size: 13.5px;
+    background-color: #1d9bf0;
+}
+.bg-grid{
+    background-image: url(image/black\ grid.png);
 }
 /*.flag-new::before {
     content: "New!";
