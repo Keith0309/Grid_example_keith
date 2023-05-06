@@ -29,6 +29,9 @@ body{
 .col-3{
   width: 510px !important;
 }
+.col-6{
+  width: 920px !important;
+}
 /*.flag-new::before {
     content: "New!";
     background-color: #087f23;
