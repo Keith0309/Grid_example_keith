@@ -17,11 +17,17 @@ body{
 .bg-nav{
     background-color: rgba(255, 255, 255, 0.6);
 }
+.bg-footer{
+    background-color: rgba(255, 255, 255, 0.6);
+}
 .nav-link:hover{
     background-color: rgba(255, 255, 255, 0.7);
 }
 .main{
   margin: 0px 150px;
+}
+.footer{
+  padding: 0px 150px;
 }
 .bg-violet{
   background-color: #5e35b1;
