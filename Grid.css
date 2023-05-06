@@ -30,9 +30,9 @@ body{
   width: 510px !important;
 }
 .col-6{
-  width: 920px !important;
+  width: 917px !important;
 }
-/*.flag-new::before {
+.flag-new::before {
     content: "New!";
     background-color: #087f23;
     position: absolute;
@@ -42,20 +42,7 @@ body{
     display: inline-block;
     color: #fff;
     font-weight: both;
-    transform: rotate(-20deg); }
+    transform: rotate(-20deg); 
+}
 .panel-box {
-  background-image: url(/img/tiny_grid.png);
-  border: 1px solid #999;
-  border-radius: 3px;
-  padding: 1rem;
   position: relative; }
-  .panel-box > a:link, .panel-box > a:visited {
-    text-decoration: none;
-    color: #000; }
-  
-  .panel-box ul {
-    margin: 1rem 0;
-    padding: 0 0 0 1.2em; }
-  
-  .home-layout h1, .home-layout h2, .panel-box h3, .example-layout h3 {
-    margin: 0; }*/
