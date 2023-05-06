@@ -26,8 +26,11 @@ body{
 .bg-violet{
   background-color: #5e35b1;
 }
-.col-3{
+.w{
   width: 510px !important;
+}
+.ww{
+  width: 375px !important;
 }
 .col-6{
   width: 917px !important;
